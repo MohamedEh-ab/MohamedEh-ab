@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A2F749&random=false&width=435&lines=mohamed%40ehab%3A~%24+cat+readme.md_;I'm+Mohamed+Ehab_;I+study+CS+and+ML_;I+use+Python+and+C%2B%2B_;Feel+free+to+look+at+my+repos_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A2F749&random=false&width=435&lines=mohamed%40ehab%3A~%24+cat+readme.md_;Hi%2C+I'm+Mohamed+Ehab_;I+study+CS+and+Data+Science_;I+use+Python+and+C%2FC%2B%2B_;Feel+free+to+look+at+my+repos_)](https://git.io/typing-svg)
 
 <!--
 **MohamedEh-ab/MohamedEh-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
